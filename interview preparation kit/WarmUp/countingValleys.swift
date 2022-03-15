@@ -11,21 +11,21 @@ import Foundation
 
 func countingValleys(steps: Int, path: String) -> Int {
 
-    var valleysNumber = 0 
+    var valleysNumber = 0
     var altitude = 0
-    
-    for index in 0..<path.count {
-        var ch = Array(path)[index]
-        if( ch == "U") {
-            altitude += 1
-            if (altitude == 0) {
-                valleysNumber += 1
+
+    for (_,value) in path.enumerated() {
+
+        if( value == "U") {
+            altitude = altitude + 1
+            if (altitude == 0)   {
+                valleysNumber = valleysNumber + 1
             }
         }
         else {
-            altitude -= 1
+            altitude = altitude - 1
         }
-    }  
+    }
     return valleysNumber
 }
 
