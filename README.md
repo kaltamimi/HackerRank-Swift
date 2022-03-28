@@ -17,3 +17,8 @@
 | Warm-up Challenges |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[countingValleys.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/interview%20preparation%20kit/WarmUp/countingValleys.swift)|
 | Warm-up Challenges |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[jumpingOnClouds.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/interview%20preparation%20kit/WarmUp/jumpingOnClouds.swift)|
 | Warm-up Challenges |[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[repeatedString.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/interview%20preparation%20kit/WarmUp/repeatedString.swift)|
+
+### Data Structures
+| Subdomain       | Challenge        |  Solution |
+| :-------------: |:--------------:   | :-------:|
+| Arrays |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=false)|[hourglassSum.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/hourglassSum.swift)|
