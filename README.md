@@ -28,3 +28,5 @@
 | Arrays |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)|[dynamicArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/DynamicArray.swift)|
 | Arrays |[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|[leftRotation.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/leftRotation.swift)|
 | Arrays |[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[sparseArrays.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/sparseArrays.swift)|
+
+| Arrays |[Array Manipulation](https://www.hackerrank.com/challenges/crush)|[.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/.swift)|
