@@ -24,3 +24,4 @@
 | Subdomain       | Challenge        |  Solution |
 | :-------------: |:--------------:   | :-------:|
 | Arrays |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=false)|[hourglassSum.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/hourglassSum.swift)|
+| Arrays |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=false)|[reverseArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/reverseArray.swift)|
