@@ -26,3 +26,4 @@
 | Arrays |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=false)|[hourglassSum.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/hourglassSum.swift)|
 | Arrays |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=false)|[reverseArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/reverseArray.swift)|
 | Arrays |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)|[DynamicArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/DynamicArray.swift)|
+| Arrays |[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|[leftRotation.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/leftRoation.swift)|
