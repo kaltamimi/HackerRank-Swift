@@ -25,6 +25,6 @@
 | :-------------: |:--------------:   | :-------:|
 | Arrays |[2D Array - DS](https://www.hackerrank.com/challenges/2d-array)|[hourglassSum.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/hourglassSum.swift)|
 | Arrays |[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)|[reverseArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/reverseArray.swift)|
-| Arrays |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)|[DynamicArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/DynamicArray.swift)|
+| Arrays |[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)|[dynamicArray.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/DynamicArray.swift)|
 | Arrays |[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|[leftRotation.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/leftRotation.swift)|
 | Arrays |[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|[sparseArrays.swift](https://github.com/kaltamimi/HackerRank-Swift/blob/main/DataStructures/Arrays/sparseArrays.swift)|
